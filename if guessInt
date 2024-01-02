@@ -1,0 +1,3 @@
+  if guessInt == secretNumber {
+                print("Congratulations, you've guessed the number!")
+                return
